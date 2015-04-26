@@ -15,8 +15,8 @@ The method use the status bar for get the current info on a device so be sure th
 
 Just copy the files:
 
-- NetworkType.h
-- NetworkType.m
+- NetworkType/NetworkType.h
+- NetworkType/NetworkType.m
 
 in your project; then include the header wherever you need:
 
