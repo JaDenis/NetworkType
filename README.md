@@ -2,7 +2,7 @@
 Simple iOS drop-in class with only one class method for check which kind of network a device is connected. 
 The method use the status bar for get the current info on a device so be sure that it's visibile.
 
-## Actually network recognized
+## Actually networks recognized
 - Unknown _(this happens when the status bar is hidden)_
 - 2G
 - 3G
