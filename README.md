@@ -19,7 +19,9 @@ Just copy the files:
 - NetworkType.m
 
 in your project; then include the header wherever you need:
+
 	#import "NetworkType.h" 
+    
 That's it!
 
 
